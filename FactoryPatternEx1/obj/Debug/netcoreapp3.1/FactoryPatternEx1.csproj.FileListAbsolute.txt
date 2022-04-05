@@ -1,0 +1,14 @@
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\bin\Debug\netcoreapp3.1\FactoryPatternEx1.exe
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\bin\Debug\netcoreapp3.1\FactoryPatternEx1.deps.json
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\bin\Debug\netcoreapp3.1\FactoryPatternEx1.runtimeconfig.json
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\bin\Debug\netcoreapp3.1\FactoryPatternEx1.runtimeconfig.dev.json
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\bin\Debug\netcoreapp3.1\FactoryPatternEx1.dll
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\bin\Debug\netcoreapp3.1\FactoryPatternEx1.pdb
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.csproj.AssemblyReference.cache
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.AssemblyInfoInputs.cache
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.AssemblyInfo.cs
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.csproj.CoreCompileInputs.cache
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.dll
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.pdb
+C:\Users\hwillis4\Desktop\repo\FactoryPatternEx1\FactoryPatternEx1\obj\Debug\netcoreapp3.1\FactoryPatternEx1.genruntimeconfig.cache
