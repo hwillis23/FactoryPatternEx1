@@ -1,0 +1,1 @@
+# FactoryPatternEx1
